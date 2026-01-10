@@ -57,6 +57,7 @@ export default function ContactUs() {
             <Link to="/#how-it-works" className="text-gray-600 hover:text-gray-900 font-medium transition-colors cursor-pointer">How it Works</Link>
             <Link to="/#pricing" className="text-gray-600 hover:text-gray-900 font-medium transition-colors cursor-pointer">Pricing</Link>
             <Link to="/#faq" className="text-gray-600 hover:text-gray-900 font-medium transition-colors cursor-pointer">FAQ</Link>
+            <Link to="/contact" className="text-gray-600 hover:text-gray-900 font-medium transition-colors">Contact</Link>
           </div>
 
           <div className="hidden lg:flex items-center gap-4">
